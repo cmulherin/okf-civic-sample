@@ -10,3 +10,4 @@ venv/
 .obsidian/workspace*.json
 .obsidian/cache
 .trash/
+.obsidian/
