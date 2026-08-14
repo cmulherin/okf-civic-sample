@@ -1,0 +1,91 @@
+{
+  "changemaker": {
+    "name": "synthetic-Riverbend Air Alliance"
+  },
+  "fields": [
+    {
+      "baseFieldShortCode": "organization_name",
+      "type": "string",
+      "value": "synthetic-Riverbend Air Alliance",
+      "source": "synthetic-riverbend-air-alliance/README.md#title"
+    },
+    {
+      "baseFieldShortCode": "organization_overview",
+      "type": "string",
+      "value": "A fabricated Detroit environmental-justice organization running a community air-monitoring network in an industrial corridor.",
+      "source": "synthetic-riverbend-air-alliance/README.md#description"
+    },
+    {
+      "baseFieldShortCode": "organization_dba_name",
+      "type": "string",
+      "value": [
+        "synthetic-Riverbend Air",
+        "Riverbend Air Alliance"
+      ],
+      "source": "synthetic-riverbend-air-alliance/README.md#aliases"
+    },
+    {
+      "baseFieldShortCode": "organization_status",
+      "type": "string",
+      "value": "stable",
+      "source": "synthetic-riverbend-air-alliance/README.md#status"
+    },
+    {
+      "baseFieldShortCode": "organization_country",
+      "type": "string",
+      "value": "US",
+      "source": "synthetic-riverbend-air-alliance/README.md#x-civic.registration_country"
+    },
+    {
+      "baseFieldShortCode": "organization_tax_id",
+      "type": "string",
+      "value": "00-1000002",
+      "source": "synthetic-riverbend-air-alliance/README.md#x-civic.registration.id"
+    },
+    {
+      "baseFieldShortCode": "organization_ntee_code",
+      "type": "string",
+      "value": [
+        "C20",
+        "C30"
+      ],
+      "source": "synthetic-riverbend-air-alliance/README.md#x-civic.ntee"
+    },
+    {
+      "baseFieldShortCode": "organization_geographic_area",
+      "type": "string",
+      "value": "US-MI-detroit",
+      "source": "synthetic-riverbend-air-alliance/README.md#x-civic.situation"
+    },
+    {
+      "baseFieldShortCode": "proposal_project_outcomes",
+      "type": "string",
+      "value": "Synthetic annual results, illustrative only. Not part of the published civic/0.6 profile.",
+      "source": "synthetic-riverbend-air-alliance/impact.md#description"
+    },
+    {
+      "baseFieldShortCode": "community_definition_overview",
+      "type": "string",
+      "value": "The residents of the industrial corridor the organization monitors. Fabricated.",
+      "source": "synthetic-riverbend-air-alliance/population.md#description"
+    },
+    {
+      "baseFieldShortCode": "proposal_related_programs",
+      "type": "string",
+      "value": "What the organization runs. Fabricated.",
+      "source": "synthetic-riverbend-air-alliance/programs.md#description"
+    },
+    {
+      "baseFieldShortCode": "proposal_name",
+      "type": "string",
+      "value": "synthetic-Riverbend Air Alliance — What I need funding for",
+      "source": "synthetic-riverbend-air-alliance/what_i_need_funding_for.md#title"
+    },
+    {
+      "baseFieldShortCode": "proposal_funding_summary",
+      "type": "string",
+      "value": "Synthetic funding priorities, in the organization's own voice. Not part of the published civic/0.6 profile.",
+      "source": "synthetic-riverbend-air-alliance/what_i_need_funding_for.md#description"
+    }
+  ]
+}

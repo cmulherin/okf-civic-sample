@@ -1,0 +1,91 @@
+{
+  "changemaker": {
+    "name": "synthetic-Valle Verde Food Network"
+  },
+  "fields": [
+    {
+      "baseFieldShortCode": "organization_name",
+      "type": "string",
+      "value": "synthetic-Valle Verde Food Network",
+      "source": "synthetic-valle-verde-food-network/README.md#title"
+    },
+    {
+      "baseFieldShortCode": "organization_overview",
+      "type": "string",
+      "value": "A fabricated Central Valley food-security organization serving farmworker communities across unincorporated Fresno County.",
+      "source": "synthetic-valle-verde-food-network/README.md#description"
+    },
+    {
+      "baseFieldShortCode": "organization_dba_name",
+      "type": "string",
+      "value": [
+        "synthetic-Valle Verde",
+        "Valle Verde Food Network"
+      ],
+      "source": "synthetic-valle-verde-food-network/README.md#aliases"
+    },
+    {
+      "baseFieldShortCode": "organization_status",
+      "type": "string",
+      "value": "stable",
+      "source": "synthetic-valle-verde-food-network/README.md#status"
+    },
+    {
+      "baseFieldShortCode": "organization_country",
+      "type": "string",
+      "value": "US",
+      "source": "synthetic-valle-verde-food-network/README.md#x-civic.registration_country"
+    },
+    {
+      "baseFieldShortCode": "organization_tax_id",
+      "type": "string",
+      "value": "00-1000004",
+      "source": "synthetic-valle-verde-food-network/README.md#x-civic.registration.id"
+    },
+    {
+      "baseFieldShortCode": "organization_ntee_code",
+      "type": "string",
+      "value": [
+        "K30",
+        "K31"
+      ],
+      "source": "synthetic-valle-verde-food-network/README.md#x-civic.ntee"
+    },
+    {
+      "baseFieldShortCode": "organization_geographic_area",
+      "type": "string",
+      "value": "US-CA-fresno",
+      "source": "synthetic-valle-verde-food-network/README.md#x-civic.situation"
+    },
+    {
+      "baseFieldShortCode": "proposal_project_outcomes",
+      "type": "string",
+      "value": "Synthetic annual results, illustrative only. Not part of the published civic/0.6 profile.",
+      "source": "synthetic-valle-verde-food-network/impact.md#description"
+    },
+    {
+      "baseFieldShortCode": "community_definition_overview",
+      "type": "string",
+      "value": "The farmworker households the organization serves. Fabricated.",
+      "source": "synthetic-valle-verde-food-network/population.md#description"
+    },
+    {
+      "baseFieldShortCode": "proposal_related_programs",
+      "type": "string",
+      "value": "What the organization runs. Fabricated.",
+      "source": "synthetic-valle-verde-food-network/programs.md#description"
+    },
+    {
+      "baseFieldShortCode": "proposal_name",
+      "type": "string",
+      "value": "synthetic-Valle Verde Food Network — What I need funding for",
+      "source": "synthetic-valle-verde-food-network/what_i_need_funding_for.md#title"
+    },
+    {
+      "baseFieldShortCode": "proposal_funding_summary",
+      "type": "string",
+      "value": "Synthetic funding priorities, in the organization's own voice. Not part of the published civic/0.6 profile.",
+      "source": "synthetic-valle-verde-food-network/what_i_need_funding_for.md#description"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "changemaker": {
+    "name": "synthetic-Black Mountain Workforce Partnership"
+  },
+  "fields": [
+    {
+      "baseFieldShortCode": "organization_name",
+      "type": "string",
+      "value": "synthetic-Black Mountain Workforce Partnership",
+      "source": "synthetic-black-mountain-workforce-partnership/README.md#title"
+    },
+    {
+      "baseFieldShortCode": "organization_overview",
+      "type": "string",
+      "value": "A fabricated post-coal workforce training organization in Letcher County, Kentucky, training people for remote work in a county without broadband.",
+      "source": "synthetic-black-mountain-workforce-partnership/README.md#description"
+    },
+    {
+      "baseFieldShortCode": "organization_dba_name",
+      "type": "string",
+      "value": [
+        "synthetic-Black Mountain Workforce",
+        "Black Mountain Workforce Partnership"
+      ],
+      "source": "synthetic-black-mountain-workforce-partnership/README.md#aliases"
+    },
+    {
+      "baseFieldShortCode": "organization_status",
+      "type": "string",
+      "value": "stable",
+      "source": "synthetic-black-mountain-workforce-partnership/README.md#status"
+    },
+    {
+      "baseFieldShortCode": "organization_country",
+      "type": "string",
+      "value": "US",
+      "source": "synthetic-black-mountain-workforce-partnership/README.md#x-civic.registration_country"
+    },
+    {
+      "baseFieldShortCode": "organization_tax_id",
+      "type": "string",
+      "value": "00-1000008",
+      "source": "synthetic-black-mountain-workforce-partnership/README.md#x-civic.registration.id"
+    },
+    {
+      "baseFieldShortCode": "organization_ntee_code",
+      "type": "string",
+      "value": [
+        "J22"
+      ],
+      "source": "synthetic-black-mountain-workforce-partnership/README.md#x-civic.ntee"
+    },
+    {
+      "baseFieldShortCode": "organization_geographic_area",
+      "type": "string",
+      "value": "US-KY-letcher",
+      "source": "synthetic-black-mountain-workforce-partnership/README.md#x-civic.situation"
+    },
+    {
+      "baseFieldShortCode": "proposal_project_outcomes",
+      "type": "string",
+      "value": "Synthetic annual results, illustrative only. Not part of the published civic/0.6 profile.",
+      "source": "synthetic-black-mountain-workforce-partnership/impact.md#description"
+    },
+    {
+      "baseFieldShortCode": "community_definition_overview",
+      "type": "string",
+      "value": "The working-age adults in Letcher County the organization serves. Fabricated.",
+      "source": "synthetic-black-mountain-workforce-partnership/population.md#description"
+    },
+    {
+      "baseFieldShortCode": "proposal_related_programs",
+      "type": "string",
+      "value": "What the organization runs. Fabricated.",
+      "source": "synthetic-black-mountain-workforce-partnership/programs.md#description"
+    },
+    {
+      "baseFieldShortCode": "proposal_learning_and_evalution",
+      "type": "string",
+      "value": "Replace per-cohort spreadsheets with one consistent participant record that produces all three funders' reports — carrying their conflicting definitions rather than resolving them.",
+      "source": "synthetic-black-mountain-workforce-partnership/technical-volunteers/cohort-outcome-reporting.md#description"
+    },
+    {
+      "baseFieldShortCode": "proposal_name",
+      "type": "string",
+      "value": "synthetic-Black Mountain Workforce Partnership — What I need funding for",
+      "source": "synthetic-black-mountain-workforce-partnership/what_i_need_funding_for.md#title"
+    },
+    {
+      "baseFieldShortCode": "proposal_funding_summary",
+      "type": "string",
+      "value": "Synthetic funding priorities, in the organization's own voice. Not part of the published civic/0.6 profile.",
+      "source": "synthetic-black-mountain-workforce-partnership/what_i_need_funding_for.md#description"
+    }
+  ]
+}

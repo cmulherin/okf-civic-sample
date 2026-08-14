@@ -1,0 +1,89 @@
+{
+  "changemaker": {
+    "name": "synthetic-Fundacja Prawo i Schronienie"
+  },
+  "fields": [
+    {
+      "baseFieldShortCode": "organization_name",
+      "type": "string",
+      "value": "synthetic-Fundacja Prawo i Schronienie",
+      "source": "synthetic-fundacja-prawo-i-schronienie/README.md#title"
+    },
+    {
+      "baseFieldShortCode": "organization_overview",
+      "type": "string",
+      "value": "A fabricated Warsaw foundation providing legal aid to refugees and migrants — the collection's GDPR bundle, and the one with the most machine-readable registry.",
+      "source": "synthetic-fundacja-prawo-i-schronienie/README.md#description"
+    },
+    {
+      "baseFieldShortCode": "organization_dba_name",
+      "type": "string",
+      "value": [
+        "synthetic-Fundacja Prawo i Schronienie",
+        "synthetic-Law and Shelter Foundation",
+        "Fundacja Prawo i Schronienie"
+      ],
+      "source": "synthetic-fundacja-prawo-i-schronienie/README.md#aliases"
+    },
+    {
+      "baseFieldShortCode": "organization_status",
+      "type": "string",
+      "value": "stable",
+      "source": "synthetic-fundacja-prawo-i-schronienie/README.md#status"
+    },
+    {
+      "baseFieldShortCode": "organization_country",
+      "type": "string",
+      "value": "PL",
+      "source": "synthetic-fundacja-prawo-i-schronienie/README.md#x-civic.registration_country"
+    },
+    {
+      "baseFieldShortCode": "organization_tax_id",
+      "type": "string",
+      "value": "0000000000",
+      "source": "synthetic-fundacja-prawo-i-schronienie/README.md#x-civic.registration.id"
+    },
+    {
+      "baseFieldShortCode": "organization_entity_type",
+      "type": "string",
+      "value": "fundacja (foundation)",
+      "source": "synthetic-fundacja-prawo-i-schronienie/README.md#x-civic.registration.legal_form"
+    },
+    {
+      "baseFieldShortCode": "organization_geographic_area",
+      "type": "string",
+      "value": "PL-MZ-warszawa",
+      "source": "synthetic-fundacja-prawo-i-schronienie/README.md#x-civic.situation"
+    },
+    {
+      "baseFieldShortCode": "proposal_project_outcomes",
+      "type": "string",
+      "value": "Synthetic annual results, illustrative only. Not part of the published civic/0.6 profile.",
+      "source": "synthetic-fundacja-prawo-i-schronienie/impact.md#description"
+    },
+    {
+      "baseFieldShortCode": "community_definition_overview",
+      "type": "string",
+      "value": "The refugees and migrants the organization represents. Fabricated.",
+      "source": "synthetic-fundacja-prawo-i-schronienie/population.md#description"
+    },
+    {
+      "baseFieldShortCode": "proposal_related_programs",
+      "type": "string",
+      "value": "What the organization runs. Fabricated.",
+      "source": "synthetic-fundacja-prawo-i-schronienie/programs.md#description"
+    },
+    {
+      "baseFieldShortCode": "proposal_name",
+      "type": "string",
+      "value": "synthetic-Fundacja Prawo i Schronienie — What I need funding for",
+      "source": "synthetic-fundacja-prawo-i-schronienie/what_i_need_funding_for.md#title"
+    },
+    {
+      "baseFieldShortCode": "proposal_funding_summary",
+      "type": "string",
+      "value": "Synthetic funding priorities, in the organization's own voice. Not part of the published civic/0.6 profile.",
+      "source": "synthetic-fundacja-prawo-i-schronienie/what_i_need_funding_for.md#description"
+    }
+  ]
+}

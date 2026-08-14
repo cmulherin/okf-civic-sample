@@ -1,0 +1,90 @@
+{
+  "changemaker": {
+    "name": "synthetic-Cumberland Gap Health Cooperative"
+  },
+  "fields": [
+    {
+      "baseFieldShortCode": "organization_name",
+      "type": "string",
+      "value": "synthetic-Cumberland Gap Health Cooperative",
+      "source": "synthetic-cumberland-gap-health-cooperative/README.md#title"
+    },
+    {
+      "baseFieldShortCode": "organization_overview",
+      "type": "string",
+      "value": "A fabricated small rural clinic in Letcher County, Kentucky, where the broadband problem belongs to the patients as much as to the organization.",
+      "source": "synthetic-cumberland-gap-health-cooperative/README.md#description"
+    },
+    {
+      "baseFieldShortCode": "organization_dba_name",
+      "type": "string",
+      "value": [
+        "synthetic-Cumberland Gap Health",
+        "Cumberland Gap Health Cooperative"
+      ],
+      "source": "synthetic-cumberland-gap-health-cooperative/README.md#aliases"
+    },
+    {
+      "baseFieldShortCode": "organization_status",
+      "type": "string",
+      "value": "stable",
+      "source": "synthetic-cumberland-gap-health-cooperative/README.md#status"
+    },
+    {
+      "baseFieldShortCode": "organization_country",
+      "type": "string",
+      "value": "US",
+      "source": "synthetic-cumberland-gap-health-cooperative/README.md#x-civic.registration_country"
+    },
+    {
+      "baseFieldShortCode": "organization_tax_id",
+      "type": "string",
+      "value": "00-1000007",
+      "source": "synthetic-cumberland-gap-health-cooperative/README.md#x-civic.registration.id"
+    },
+    {
+      "baseFieldShortCode": "organization_ntee_code",
+      "type": "string",
+      "value": [
+        "E32"
+      ],
+      "source": "synthetic-cumberland-gap-health-cooperative/README.md#x-civic.ntee"
+    },
+    {
+      "baseFieldShortCode": "organization_geographic_area",
+      "type": "string",
+      "value": "US-KY-letcher",
+      "source": "synthetic-cumberland-gap-health-cooperative/README.md#x-civic.situation"
+    },
+    {
+      "baseFieldShortCode": "proposal_project_outcomes",
+      "type": "string",
+      "value": "Synthetic annual results, illustrative only. Not part of the published civic/0.6 profile.",
+      "source": "synthetic-cumberland-gap-health-cooperative/impact.md#description"
+    },
+    {
+      "baseFieldShortCode": "community_definition_overview",
+      "type": "string",
+      "value": "The Letcher County patients the organization serves. Fabricated.",
+      "source": "synthetic-cumberland-gap-health-cooperative/population.md#description"
+    },
+    {
+      "baseFieldShortCode": "proposal_related_programs",
+      "type": "string",
+      "value": "What the organization runs. Fabricated.",
+      "source": "synthetic-cumberland-gap-health-cooperative/programs.md#description"
+    },
+    {
+      "baseFieldShortCode": "proposal_name",
+      "type": "string",
+      "value": "synthetic-Cumberland Gap Health Cooperative — What I need funding for",
+      "source": "synthetic-cumberland-gap-health-cooperative/what_i_need_funding_for.md#title"
+    },
+    {
+      "baseFieldShortCode": "proposal_funding_summary",
+      "type": "string",
+      "value": "Synthetic funding priorities, in the organization's own voice. Not part of the published civic/0.6 profile.",
+      "source": "synthetic-cumberland-gap-health-cooperative/what_i_need_funding_for.md#description"
+    }
+  ]
+}

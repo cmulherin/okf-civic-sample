@@ -1,0 +1,91 @@
+{
+  "changemaker": {
+    "name": "synthetic-Motor City Trades Institute"
+  },
+  "fields": [
+    {
+      "baseFieldShortCode": "organization_name",
+      "type": "string",
+      "value": "synthetic-Motor City Trades Institute",
+      "source": "synthetic-motor-city-trades-institute/README.md#title"
+    },
+    {
+      "baseFieldShortCode": "organization_overview",
+      "type": "string",
+      "value": "A fabricated Detroit pre-apprenticeship and trades-training organization, mid-sized, with real technical debt.",
+      "source": "synthetic-motor-city-trades-institute/README.md#description"
+    },
+    {
+      "baseFieldShortCode": "organization_dba_name",
+      "type": "string",
+      "value": [
+        "synthetic-Motor City Trades",
+        "Motor City Trades Institute"
+      ],
+      "source": "synthetic-motor-city-trades-institute/README.md#aliases"
+    },
+    {
+      "baseFieldShortCode": "organization_status",
+      "type": "string",
+      "value": "stable",
+      "source": "synthetic-motor-city-trades-institute/README.md#status"
+    },
+    {
+      "baseFieldShortCode": "organization_country",
+      "type": "string",
+      "value": "US",
+      "source": "synthetic-motor-city-trades-institute/README.md#x-civic.registration_country"
+    },
+    {
+      "baseFieldShortCode": "organization_tax_id",
+      "type": "string",
+      "value": "00-1000003",
+      "source": "synthetic-motor-city-trades-institute/README.md#x-civic.registration.id"
+    },
+    {
+      "baseFieldShortCode": "organization_ntee_code",
+      "type": "string",
+      "value": [
+        "J22",
+        "J20"
+      ],
+      "source": "synthetic-motor-city-trades-institute/README.md#x-civic.ntee"
+    },
+    {
+      "baseFieldShortCode": "organization_geographic_area",
+      "type": "string",
+      "value": "US-MI-detroit",
+      "source": "synthetic-motor-city-trades-institute/README.md#x-civic.situation"
+    },
+    {
+      "baseFieldShortCode": "proposal_project_outcomes",
+      "type": "string",
+      "value": "Synthetic annual results, illustrative only. Not part of the published civic/0.6 profile.",
+      "source": "synthetic-motor-city-trades-institute/impact.md#description"
+    },
+    {
+      "baseFieldShortCode": "community_definition_overview",
+      "type": "string",
+      "value": "The adults entering the trades that the organization serves. Fabricated.",
+      "source": "synthetic-motor-city-trades-institute/population.md#description"
+    },
+    {
+      "baseFieldShortCode": "proposal_related_programs",
+      "type": "string",
+      "value": "What the organization runs. Fabricated.",
+      "source": "synthetic-motor-city-trades-institute/programs.md#description"
+    },
+    {
+      "baseFieldShortCode": "proposal_name",
+      "type": "string",
+      "value": "synthetic-Motor City Trades Institute — What I need funding for",
+      "source": "synthetic-motor-city-trades-institute/what_i_need_funding_for.md#title"
+    },
+    {
+      "baseFieldShortCode": "proposal_funding_summary",
+      "type": "string",
+      "value": "Synthetic funding priorities, in the organization's own voice. Not part of the published civic/0.6 profile.",
+      "source": "synthetic-motor-city-trades-institute/what_i_need_funding_for.md#description"
+    }
+  ]
+}
