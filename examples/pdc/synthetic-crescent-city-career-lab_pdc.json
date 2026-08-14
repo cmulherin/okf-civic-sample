@@ -1,0 +1,91 @@
+{
+  "changemaker": {
+    "name": "synthetic-Crescent City Career Lab"
+  },
+  "fields": [
+    {
+      "baseFieldShortCode": "organization_name",
+      "type": "string",
+      "value": "synthetic-Crescent City Career Lab",
+      "source": "synthetic-crescent-city-career-lab/README.md#title"
+    },
+    {
+      "baseFieldShortCode": "organization_overview",
+      "type": "string",
+      "value": "A fabricated New Orleans workforce organization whose verification determination has expired — an organization in good standing with an invalid record.",
+      "source": "synthetic-crescent-city-career-lab/README.md#description"
+    },
+    {
+      "baseFieldShortCode": "organization_dba_name",
+      "type": "string",
+      "value": [
+        "synthetic-Crescent City Career Lab",
+        "Crescent City Career Lab"
+      ],
+      "source": "synthetic-crescent-city-career-lab/README.md#aliases"
+    },
+    {
+      "baseFieldShortCode": "organization_status",
+      "type": "string",
+      "value": "stable",
+      "source": "synthetic-crescent-city-career-lab/README.md#status"
+    },
+    {
+      "baseFieldShortCode": "organization_country",
+      "type": "string",
+      "value": "US",
+      "source": "synthetic-crescent-city-career-lab/README.md#x-civic.registration_country"
+    },
+    {
+      "baseFieldShortCode": "organization_tax_id",
+      "type": "string",
+      "value": "00-1000012",
+      "source": "synthetic-crescent-city-career-lab/README.md#x-civic.registration.id"
+    },
+    {
+      "baseFieldShortCode": "organization_ntee_code",
+      "type": "string",
+      "value": [
+        "J22",
+        "J20"
+      ],
+      "source": "synthetic-crescent-city-career-lab/README.md#x-civic.ntee"
+    },
+    {
+      "baseFieldShortCode": "organization_geographic_area",
+      "type": "string",
+      "value": "US-LA-orleans",
+      "source": "synthetic-crescent-city-career-lab/README.md#x-civic.situation"
+    },
+    {
+      "baseFieldShortCode": "proposal_project_outcomes",
+      "type": "string",
+      "value": "Synthetic annual results, illustrative only. Not part of the published civic/0.6 profile.",
+      "source": "synthetic-crescent-city-career-lab/impact.md#description"
+    },
+    {
+      "baseFieldShortCode": "community_definition_overview",
+      "type": "string",
+      "value": "The working adults changing careers that the organization serves. Fabricated.",
+      "source": "synthetic-crescent-city-career-lab/population.md#description"
+    },
+    {
+      "baseFieldShortCode": "proposal_related_programs",
+      "type": "string",
+      "value": "What the organization runs. Fabricated.",
+      "source": "synthetic-crescent-city-career-lab/programs.md#description"
+    },
+    {
+      "baseFieldShortCode": "proposal_name",
+      "type": "string",
+      "value": "synthetic-Crescent City Career Lab — What I need funding for",
+      "source": "synthetic-crescent-city-career-lab/what_i_need_funding_for.md#title"
+    },
+    {
+      "baseFieldShortCode": "proposal_funding_summary",
+      "type": "string",
+      "value": "Synthetic funding priorities, in the organization's own voice. Not part of the published civic/0.6 profile.",
+      "source": "synthetic-crescent-city-career-lab/what_i_need_funding_for.md#description"
+    }
+  ]
+}

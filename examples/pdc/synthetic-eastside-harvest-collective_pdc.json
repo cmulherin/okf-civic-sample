@@ -1,0 +1,91 @@
+{
+  "changemaker": {
+    "name": "synthetic-Eastside Harvest Collective"
+  },
+  "fields": [
+    {
+      "baseFieldShortCode": "organization_name",
+      "type": "string",
+      "value": "synthetic-Eastside Harvest Collective",
+      "source": "synthetic-eastside-harvest-collective/README.md#title"
+    },
+    {
+      "baseFieldShortCode": "organization_overview",
+      "type": "string",
+      "value": "A fabricated Detroit urban-farming and food-distribution organization, with a deliberately unreconciled budget.",
+      "source": "synthetic-eastside-harvest-collective/README.md#description"
+    },
+    {
+      "baseFieldShortCode": "organization_dba_name",
+      "type": "string",
+      "value": [
+        "synthetic-Eastside Harvest",
+        "Eastside Harvest Collective"
+      ],
+      "source": "synthetic-eastside-harvest-collective/README.md#aliases"
+    },
+    {
+      "baseFieldShortCode": "organization_status",
+      "type": "string",
+      "value": "stable",
+      "source": "synthetic-eastside-harvest-collective/README.md#status"
+    },
+    {
+      "baseFieldShortCode": "organization_country",
+      "type": "string",
+      "value": "US",
+      "source": "synthetic-eastside-harvest-collective/README.md#x-civic.registration_country"
+    },
+    {
+      "baseFieldShortCode": "organization_tax_id",
+      "type": "string",
+      "value": "00-1000001",
+      "source": "synthetic-eastside-harvest-collective/README.md#x-civic.registration.id"
+    },
+    {
+      "baseFieldShortCode": "organization_ntee_code",
+      "type": "string",
+      "value": [
+        "K30",
+        "K20"
+      ],
+      "source": "synthetic-eastside-harvest-collective/README.md#x-civic.ntee"
+    },
+    {
+      "baseFieldShortCode": "organization_geographic_area",
+      "type": "string",
+      "value": "US-MI-detroit",
+      "source": "synthetic-eastside-harvest-collective/README.md#x-civic.situation"
+    },
+    {
+      "baseFieldShortCode": "proposal_project_outcomes",
+      "type": "string",
+      "value": "Synthetic annual results, illustrative only. Not part of the published civic/0.6 profile.",
+      "source": "synthetic-eastside-harvest-collective/impact.md#description"
+    },
+    {
+      "baseFieldShortCode": "community_definition_overview",
+      "type": "string",
+      "value": "The households and neighborhoods the organization serves. Fabricated.",
+      "source": "synthetic-eastside-harvest-collective/population.md#description"
+    },
+    {
+      "baseFieldShortCode": "proposal_related_programs",
+      "type": "string",
+      "value": "What the organization runs. Fabricated.",
+      "source": "synthetic-eastside-harvest-collective/programs.md#description"
+    },
+    {
+      "baseFieldShortCode": "proposal_name",
+      "type": "string",
+      "value": "synthetic-Eastside Harvest Collective — What I need funding for",
+      "source": "synthetic-eastside-harvest-collective/what_i_need_funding_for.md#title"
+    },
+    {
+      "baseFieldShortCode": "proposal_funding_summary",
+      "type": "string",
+      "value": "Synthetic funding priorities, in the organization's own voice. Not part of the published civic/0.6 profile.",
+      "source": "synthetic-eastside-harvest-collective/what_i_need_funding_for.md#description"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "changemaker": {
+    "name": "synthetic-Frogtown Community Table"
+  },
+  "fields": [
+    {
+      "baseFieldShortCode": "organization_name",
+      "type": "string",
+      "value": "synthetic-Frogtown Community Table",
+      "source": "synthetic-frogtown-community-table/README.md#title"
+    },
+    {
+      "baseFieldShortCode": "organization_overview",
+      "type": "string",
+      "value": "A fabricated culturally-specific food shelf in Saint Paul, Minnesota.",
+      "source": "synthetic-frogtown-community-table/README.md#description"
+    },
+    {
+      "baseFieldShortCode": "organization_dba_name",
+      "type": "string",
+      "value": [
+        "synthetic-Frogtown Table",
+        "Frogtown Community Table"
+      ],
+      "source": "synthetic-frogtown-community-table/README.md#aliases"
+    },
+    {
+      "baseFieldShortCode": "organization_status",
+      "type": "string",
+      "value": "stable",
+      "source": "synthetic-frogtown-community-table/README.md#status"
+    },
+    {
+      "baseFieldShortCode": "organization_country",
+      "type": "string",
+      "value": "US",
+      "source": "synthetic-frogtown-community-table/README.md#x-civic.registration_country"
+    },
+    {
+      "baseFieldShortCode": "organization_tax_id",
+      "type": "string",
+      "value": "00-1000009",
+      "source": "synthetic-frogtown-community-table/README.md#x-civic.registration.id"
+    },
+    {
+      "baseFieldShortCode": "organization_operating_budget",
+      "type": "string",
+      "value": 430000,
+      "source": "synthetic-frogtown-community-table/README.md#x-civic.budget.amount"
+    },
+    {
+      "baseFieldShortCode": "organization_fiscal_year",
+      "type": "string",
+      "value": "FY2025",
+      "source": "synthetic-frogtown-community-table/README.md#x-civic.budget.period"
+    },
+    {
+      "baseFieldShortCode": "organization_country",
+      "type": "string",
+      "value": "US",
+      "source": "synthetic-frogtown-community-table/README.md#x-civic.operating_locations[0].country"
+    },
+    {
+      "baseFieldShortCode": "organization_state_province",
+      "type": "string",
+      "value": "US-MN",
+      "source": "synthetic-frogtown-community-table/README.md#x-civic.operating_locations[0].subdivision"
+    },
+    {
+      "baseFieldShortCode": "organization_city",
+      "type": "string",
+      "value": "Frogtown, Saint Paul, Ramsey County, Minnesota",
+      "source": "synthetic-frogtown-community-table/README.md#x-civic.operating_locations[0].locality"
+    },
+    {
+      "baseFieldShortCode": "organization_ntee_code",
+      "type": "string",
+      "value": [
+        "K30",
+        "K31",
+        "P84"
+      ],
+      "source": "synthetic-frogtown-community-table/README.md#x-civic.ntee"
+    },
+    {
+      "baseFieldShortCode": "organization_geographic_area",
+      "type": "string",
+      "value": "US-MN-saint-paul",
+      "source": "synthetic-frogtown-community-table/README.md#x-civic.situation"
+    },
+    {
+      "baseFieldShortCode": "proposal_project_outcomes",
+      "type": "string",
+      "value": "Synthetic annual results, illustrative only. Not part of the published civic/0.6 profile.",
+      "source": "synthetic-frogtown-community-table/impact.md#description"
+    },
+    {
+      "baseFieldShortCode": "community_definition_overview",
+      "type": "string",
+      "value": "The immigrant and refugee households the organization serves, and why a demographic list is the least useful half of it.",
+      "source": "synthetic-frogtown-community-table/population.md#description"
+    },
+    {
+      "baseFieldShortCode": "proposal_related_programs",
+      "type": "string",
+      "value": "What the organization runs, and the one room doing more than the program list admits.",
+      "source": "synthetic-frogtown-community-table/programs.md#description"
+    },
+    {
+      "baseFieldShortCode": "proposal_name",
+      "type": "string",
+      "value": "synthetic-Frogtown Community Table — What I need funding for",
+      "source": "synthetic-frogtown-community-table/what_i_need_funding_for.md#title"
+    },
+    {
+      "baseFieldShortCode": "proposal_funding_summary",
+      "type": "string",
+      "value": "Synthetic funding priorities, in the organization's own voice. Not part of the published civic/0.6 profile.",
+      "source": "synthetic-frogtown-community-table/what_i_need_funding_for.md#description"
+    }
+  ]
+}

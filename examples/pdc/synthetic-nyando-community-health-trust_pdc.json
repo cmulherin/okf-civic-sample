@@ -1,0 +1,88 @@
+{
+  "changemaker": {
+    "name": "synthetic-Nyando Community Health Trust"
+  },
+  "fields": [
+    {
+      "baseFieldShortCode": "organization_name",
+      "type": "string",
+      "value": "synthetic-Nyando Community Health Trust",
+      "source": "synthetic-nyando-community-health-trust/README.md#title"
+    },
+    {
+      "baseFieldShortCode": "organization_overview",
+      "type": "string",
+      "value": "A fabricated community health organization in Kisumu County, Kenya — technically the most sophisticated field operation in this collection, and the one a verification process could not confirm.",
+      "source": "synthetic-nyando-community-health-trust/README.md#description"
+    },
+    {
+      "baseFieldShortCode": "organization_dba_name",
+      "type": "string",
+      "value": [
+        "synthetic-Nyando Community Health Trust",
+        "Nyando Community Health Trust"
+      ],
+      "source": "synthetic-nyando-community-health-trust/README.md#aliases"
+    },
+    {
+      "baseFieldShortCode": "organization_status",
+      "type": "string",
+      "value": "stable",
+      "source": "synthetic-nyando-community-health-trust/README.md#status"
+    },
+    {
+      "baseFieldShortCode": "organization_country",
+      "type": "string",
+      "value": "KE",
+      "source": "synthetic-nyando-community-health-trust/README.md#x-civic.registration_country"
+    },
+    {
+      "baseFieldShortCode": "organization_tax_id",
+      "type": "string",
+      "value": "PBO/0000/0000",
+      "source": "synthetic-nyando-community-health-trust/README.md#x-civic.registration.id"
+    },
+    {
+      "baseFieldShortCode": "organization_entity_type",
+      "type": "string",
+      "value": "Trust",
+      "source": "synthetic-nyando-community-health-trust/README.md#x-civic.registration.legal_form"
+    },
+    {
+      "baseFieldShortCode": "organization_geographic_area",
+      "type": "string",
+      "value": "KE-KS-kisumu",
+      "source": "synthetic-nyando-community-health-trust/README.md#x-civic.situation"
+    },
+    {
+      "baseFieldShortCode": "proposal_project_outcomes",
+      "type": "string",
+      "value": "Synthetic annual results, illustrative only. Not part of the published civic/0.6 profile.",
+      "source": "synthetic-nyando-community-health-trust/impact.md#description"
+    },
+    {
+      "baseFieldShortCode": "community_definition_overview",
+      "type": "string",
+      "value": "The rural households in Nyando the organization serves. Fabricated.",
+      "source": "synthetic-nyando-community-health-trust/population.md#description"
+    },
+    {
+      "baseFieldShortCode": "proposal_related_programs",
+      "type": "string",
+      "value": "What the organization runs. Fabricated.",
+      "source": "synthetic-nyando-community-health-trust/programs.md#description"
+    },
+    {
+      "baseFieldShortCode": "proposal_name",
+      "type": "string",
+      "value": "synthetic-Nyando Community Health Trust — What I need funding for",
+      "source": "synthetic-nyando-community-health-trust/what_i_need_funding_for.md#title"
+    },
+    {
+      "baseFieldShortCode": "proposal_funding_summary",
+      "type": "string",
+      "value": "Synthetic funding priorities, in the organization's own voice. Not part of the published civic/0.6 profile.",
+      "source": "synthetic-nyando-community-health-trust/what_i_need_funding_for.md#description"
+    }
+  ]
+}
